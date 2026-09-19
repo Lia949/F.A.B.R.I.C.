@@ -73,6 +73,7 @@ Is used to determine the hit limb after an normal attack (no aim).
 > | 3 | 50 - 100 m | Giant (-)/ Hedgedog (+) | Extremely fast or chaotic | Almost dark or stormy | 
 > | 4 | 100 - 500 m | Blue Whale (-)/ Mouse (+) |  |  |
 > | 5 | 500 - 1000 m | Dragon (-)/ Fly (+) |   |  | 
+
 ## Cover, Crouching or Lying
 If you have cover any opponent attacking with a ranged attack can aim at one of your exposed limbs. Alternatively they can shoot as normal and roll on the hit table. If the rolled limb is behind cover the attack deals no effect, except if the cover is destroyed too (DM decision).
 Crouching targets count as one Size smaller, prone targets count as two sizes smaller.
@@ -102,6 +103,19 @@ If your passive stealth is higher than your opponents awareness and that opponen
 Your shield bonus (SB) is added to the defense value (after the check). The shield bonus also applies for dodging
 Armor simply reduces the number of damage on the corresponding limb by its damage reduction (DR) value.
 Heavy or large equipment has an obstruction penalty. If the sum rounded is larger than the CON stat, the character takes that level in the obstructed condition.
+
+# Damage Types
+• Blunt 
+• Piercing
+• Cutting
+• Fire/Heat
+• Acid
+• Cold
+• Psychic/Mental
+• Magical
+• Divine
+• Necrotic
+• Poison
 
 ## Area Attack
 Some weapons have an area attack (e.g. grenades). The weapon card states the radius of the affected area in meters. The maximum distance of a ranged weapon applies for the center of the area attack. Damage is spread evenly on all body parts. Dodging can be used to reduce the damage. 

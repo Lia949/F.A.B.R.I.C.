@@ -24,7 +24,7 @@ Power changes both character creation and leveling up. So in two different power
 - **Consciousness**: 10
 - **Speed**: 2
 - **Endurance**: 10
-- **Size**: 0
+- **Size**: -2, -1, 0 or 1 (players choice, check [[Combat/index#Size and Constitution/Stealth|size table]] for reference)
 - **Influence**: 0
 - **Mental and physical Resistance**: 3 each
 - **Channel Capacity**: 0
@@ -36,7 +36,7 @@ Power changes both character creation and leveling up. So in two different power
 - **Skill points**
   Used to increase skill values. Values from 0-6 cost one point, from 6-9 two points and from 9-12 three points.
 - **Resistance points**
-  Used to increase Mental Resistance, Physical Resistance, Bloodpoints or Consciousness by one per point. 
+  Used to increase Mental Resistance, Physical Resistance by one per point or Bloodpoints, Consciousness by two per point
 - **Resource points**
   Used to increase Endurance or Source Points by one per point
 
@@ -47,11 +47,12 @@ This table indicated the inital upgrades that can be made, depending on the Powe
 | Attribute points  | 10      | 12      | 14           | 16     | 18     |
 | Resistance points | 2       | 3       | 4            | 5      | 6      |
 | Resource points   | 2       | 4       | 6            | 8      | 10     |
+| Skill points      | 6       | 8       | 10           | 12     | 14     |
 
 ## Race
 Each race has either two positive and one negative [[Characterstats#Traits|Traits]] or one positive Trait. The DM can either have fixed races or the player finds plausible traits for their chosen race.
-## Culture
-Each culture gets one [[Characterstats#Traits|Traits]] of the type that gives advantage on the specialization of a basic skill. Also they get two professional skills with a level of 1, that fit the culture.
+## Personal trait
+Each character gets one [[Characterstats#Traits|Traits]] of the type that gives advantage on the specialization of a basic skill. Also they get two professional skills with a level of 1.
 
 # Step 4: Childhood and Family Fate
 This can be either rolled or the player creates a character backstory freely. Together with the DM a level of Influence is decided upon.
@@ -64,17 +65,7 @@ This can be either rolled or the player creates a character backstory freely. To
 | 4    | middle-class       | +3 Influence |
 | 5    | upper middle-class | +4 Influence |
 | 6    | rich               | +5 Influence |
-## Siblings
-Roll 1d6. On a 1-2 you're an only child. On a 3-6 you have siblings, roll 1d6 to see how many. For each sibling roll on the table to see how close you are/were.
 
-| Roll | Sibling relationship           |
-| ---- | ------------------------------ |
-| 1    | extremely bad relation         |
-| 2    | bad relation or no contact     |
-| 3    | Some good, some bad            |
-| 4    | Mostly good                    |
-| 5    | Good relations                 |
-| 6    | very close and loving relation |
 ## Family Relations
 Roll on the table 
 
@@ -86,6 +77,18 @@ Roll on the table
 | 4    | Mostly good                             | Mostly good                   | +1 Rhethoric                   |
 | 5    | Good relations                          | Carefree                      | +1 Insight                     |
 | 6    | very close and loving relations         | Extremely good                | +1 Attribute point, +1 Insight |
+
+## Siblings
+Roll 1d6. On a 1-2 you're an only child. On a 3-6 you have siblings, roll 1d6 to see how many. For each sibling roll on the table to see how close you are/were.
+
+| Roll | Sibling relationship           |
+| ---- | ------------------------------ |
+| 1    | extremely bad relation         |
+| 2    | bad relation or no contact     |
+| 3    | Some good, some bad            |
+| 4    | Mostly good                    |
+| 5    | Good relations                 |
+| 6    | very close and loving relation |
 
 # Step 6: Life Events
 Roll 1d6 for every full decade of age. For an even result roll with 2d6 on the Fortune table, for uneven on the Misfortune. 
@@ -117,8 +120,9 @@ Decide on what skills (basic or professional) the character spent their life on 
 
 |       | Half-hearted pursuit | Dedicated pursuit | Accelerated Learning |
 | ----- | -------------------- | ----------------- | -------------------- |
-| Child | 0.5                  | 1                 | 2                    |
-| Adult | 0.25                 | 0.5               | 1                    |
+| Child | 0.25                 | 0.5               | 1                    |
+| Adult | 0.5                  | 1                 | 2                    |
+| Old   | 0.25                 | 0.5               | 1                    |
 
 A character can only focus on 2 dedicated/accelerated pursuits or 1 dedicated/accelerated and 2 half-hearted ones at a time.
 Accelerated learning means having a dedicated teacher that actively supports the character. This is only possible with enough influence level or taking a dept.

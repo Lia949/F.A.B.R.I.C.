@@ -73,19 +73,6 @@ You loose a level of **Exhaustion** every hour of rest.
 Attributes are influenced by conditions as described above. The attribute state summarizes the current values for all attributes.
 Attribute statess are always temporary, meaning that if a condition ends its influence on attributes is removed.
 
-# Damage Types
-• Blunt 
-• Piercing
-• Cutting
-• Fire/Heat
-• Acid
-• Cold
-• Psychic/Mental
-• Magical
-• Divine
-• Necrotic
-• Poison
-
 # Condition rating (*experimental*)
 The condition rating tries to balance main actions by calculating their Action Level from effect, level, decay, duration and DC. This allows to easily create new main actions, for example when [[Skill Trees]] are used or the DM wants more options for their players.
 

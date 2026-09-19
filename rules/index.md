@@ -37,7 +37,7 @@ But all these things currently are pipe dreams of an optimal outcome. For now I 
 
 
 # What does F.A.B.R.I.C. stand for?
-**F**ramework for **A**rcane **B**inomaldistributed **R**ules allowing **I**nfinite **C**reativity
+**F**ramework for **A**rcane **B**inomaldistributed **R**ules in **I**ndividual **C**ontexts
 
 There is a full ocean of different rules for Pen and Paper out there. I've played some of them more, some less and while many of them are great rules in general, there is one thing all of them seem to share: magic only consists of a list of predefined spells. While it is fun to explore creative ways to solve a problem using these spells, they ultimately represent a rigid tool.
 Meanwhile in (some) fantasy books we read about the exploration of magic, the possibilities and creativity characters encounter while they form their own path of magic. They connect to their power, they feel the magic. And they decide what to do with it.

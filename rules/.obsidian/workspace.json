@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Combat/Conditions and Character state.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Conditions and Character state"
             }
           }
         ],
@@ -230,25 +230,25 @@
   },
   "active": "74e4e7b248557ca5",
   "lastOpenFiles": [
-    "Skill Trees.md",
-    "Core Rules/Characterstats.md",
-    "Core Rules/Character creation and Leveling up.md",
-    "Core Rules/charactersheet.pdf",
-    "Combat/Conditions and Character state.md",
-    "Combat/Main Actions.md",
-    "Core Rules/World creation.md",
-    "Items and Influence/Items.md",
-    "Items and Influence/Influence.md",
-    "Core Rules/Equipment and Prosthesis.md",
     "Core Rules/Creatures.md",
+    "Items and Influence/Items.md",
+    "Core Rules/Character creation and Leveling up.md",
+    "Combat/Main Actions.md",
+    "Items and Influence/Influence.md",
+    "Items and Influence/index.md",
+    "Core Rules/Characterstats.md",
+    "Core Rules/charactersheet.pdf",
+    "Combat/index.md",
+    "Combat/Conditions and Character state.md",
+    "Core Rules/World creation.md",
+    "index.md",
+    "Skill Trees.md",
+    "Core Rules/Equipment and Prosthesis.md",
     "Core Rules/index.md",
     "Images/Orientation.png",
     "Images/fabric_logo.png",
-    "index.md",
     "Untitled.md",
     "Core Rules/Character_sheet.pdf",
-    "Combat/index.md",
-    "Items and Influence/index.md",
     "Magic/index.md",
     "Combat/Side Actions.md",
     "Combat/Healing.md",

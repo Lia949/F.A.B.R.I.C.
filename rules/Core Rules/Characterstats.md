@@ -30,7 +30,6 @@ Endurance can optionally (meaning that the DM can decide to use or ignore the wh
 
 ## Blood points and Consciousness
 Blood points introduce a mechanism that can lead to death by bleeding out. Similarly loosing consciousness can be lethal. For details check out the [[Conditions and Character state]] section.
-%%>[!tip] Bloodpoints = 10  +  CON / 2%%
 
 ## Physical and mental resistance
 The physical resistance describes how many light wounds need to be accumulated to deal a severe wound. The mental resistance is the equivalent for mental conditions (how many points have to accumulate to gain one level).
@@ -71,13 +70,17 @@ These characteristics can be vastly different from setting to setting. Or even b
 Traits describe special abilities of the character. Traits are a way for the DM to create their own races with distinct features. 
 **Postive trait options**
 - Advantage on a specialization of a basic skill (eg. Good looking | Advantage on rhethoric:charm)
-- Resistance to a specific type of damage
-- +1 to physical Resistance, mental Resistance, Bloodpoints or Consciousness
+- Resistance to a specific type of [[Combat/index#Damage Types|Damage]]
+- +1 to one attribute
+- +1 to physical Resistance or mental Resistance
+- +2 to Bloodpoints or Consciousness
 - +5 Endurance or Source Points
 **Negative trait options**
 - Disadvantage on a specialization of a basic skill
-- Vulnerability to a specific type of damage
-- -1 to physical Resistance, mental Resistance, Bloodpoints or Consciousness
+-  -1 to one attribute
+- Vulnerability to a specific type of [[Combat/index#Damage Types|Damage]]
+- -1 to physical Resistance or mental Resistance
+- -2 to Bloodpoints or Consciousness
 - -5 Endurance or Source Points
 
 ## Scars
