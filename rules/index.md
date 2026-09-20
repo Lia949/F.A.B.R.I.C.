@@ -9,7 +9,7 @@ Welcome to F.A.B.R.I.C., an open-source Pen and Paper Framework[^1]. Framework? 
 # Version
 | Version number | Description                                                                                  | Updated    |
 | -------------- | -------------------------------------------------------------------------------------------- | ---------- |
-| 0.1            | Basic rules including Core, Combat, Items and Influence. Untested values for most mechanics. | 19.09.2026 |
+| 0.1            | Basic rules including Core, Combat, Items and Influence. Untested values for most mechanics. | 20.09.2026 |
 **Current version**: 0.1
 
 # An overview of the rules
