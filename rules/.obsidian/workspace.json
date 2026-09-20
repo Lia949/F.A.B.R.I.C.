@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combat/Conditions and Character state.md",
+                "file": "Combat/Main Actions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conditions and Character state"
+              "title": "Main Actions"
             }
           }
         ],
@@ -230,16 +230,16 @@
   },
   "active": "74e4e7b248557ca5",
   "lastOpenFiles": [
+    "Combat/index.md",
     "Core Rules/Creatures.md",
-    "Items and Influence/Items.md",
     "Core Rules/Character creation and Leveling up.md",
+    "Combat/Conditions and Character state.md",
+    "Items and Influence/Items.md",
     "Combat/Main Actions.md",
     "Items and Influence/Influence.md",
     "Items and Influence/index.md",
     "Core Rules/Characterstats.md",
     "Core Rules/charactersheet.pdf",
-    "Combat/index.md",
-    "Combat/Conditions and Character state.md",
     "Core Rules/World creation.md",
     "index.md",
     "Skill Trees.md",

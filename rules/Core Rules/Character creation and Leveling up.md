@@ -114,18 +114,15 @@ You can take a dept of Level 7 and go to Influence Level of 3 by joining a crimi
 Note at least three most important people in your life. Even if it's the baker next door where you get your morning coffee.
 
 # Step 8: Profession and skills
-Decide on what skills (basic or professional) the character spent their life on pursuing dedicatedly. This can include schooling or accelerated teaching as a child as well as studes, learned professions or hobbies.
+Decide on what abilities the character spent their life on pursuing. This can include schooling or accelerated teaching as a child as well as studies, learned professions or hobbies. They get Improvement points that can be used like when the character [[#Leveling up|levels up]].
 
-**Skill points gained per year**
+|       | Improvement points per year |
+| ----- | --------------------------- |
+| Child | 1                           |
+| Adult | 2                           |
+| Old   | -0.5                        |
 
-|       | Half-hearted pursuit | Dedicated pursuit | Accelerated Learning |
-| ----- | -------------------- | ----------------- | -------------------- |
-| Child | 0.25                 | 0.5               | 1                    |
-| Adult | 0.5                  | 1                 | 2                    |
-| Old   | 0.25                 | 0.5               | 1                    |
-
-A character can only focus on 2 dedicated/accelerated pursuits or 1 dedicated/accelerated and 2 half-hearted ones at a time.
-Accelerated learning means having a dedicated teacher that actively supports the character. This is only possible with enough influence level or taking a dept.
+**Accelerated learning** means having a dedicated teacher that actively supports the character. This is only possible with enough influence level or taking a dept. For the period of accelerated learning the character gets **double** the Improvement Points than normal.
 
 | Influence Level | Dept Level | Years of accelerated learning possible |     |
 | --------------- | ---------- | -------------------------------------- | --- |
@@ -137,7 +134,7 @@ Accelerated learning means having a dedicated teacher that actively supports the
 # Step 9: Equipment
 Additionally to items that you may have gotten during the previous steps, you can have the following Equipment: 
 - 2 items of the same level as your influence
-- 3 items of one level below your influence
+- 4 items of one level below your influence
 - 6 items of any level, with a max of two below your influence
 
 # Leveling up
