@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Rules/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
@@ -230,6 +230,7 @@
   },
   "active": "74e4e7b248557ca5",
   "lastOpenFiles": [
+    "Core Rules/index.md",
     "index.md",
     "Items and Influence/Influence.md",
     "Items and Influence/index.md",
@@ -244,7 +245,6 @@
     "Core Rules/World creation.md",
     "Skill Trees.md",
     "Core Rules/Equipment and Prosthesis.md",
-    "Core Rules/index.md",
     "Images/Orientation.png",
     "Images/fabric_logo.png",
     "Untitled.md",
