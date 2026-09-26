@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Core Rules/Character creation and Leveling up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Character creation and Leveling up"
             }
           }
         ],
@@ -230,11 +230,12 @@
   },
   "active": "74e4e7b248557ca5",
   "lastOpenFiles": [
-    "Core Rules/index.md",
+    "Core Rules/World creation.md",
+    "Core Rules/Character creation and Leveling up.md",
     "index.md",
+    "Core Rules/index.md",
     "Items and Influence/Influence.md",
     "Items and Influence/index.md",
-    "Core Rules/Character creation and Leveling up.md",
     "Core Rules/Creatures.md",
     "Core Rules/Characterstats.md",
     "Combat/index.md",
@@ -242,7 +243,6 @@
     "Combat/Main Actions.md",
     "Combat/Conditions and Character state.md",
     "Items and Influence/Items.md",
-    "Core Rules/World creation.md",
     "Skill Trees.md",
     "Core Rules/Equipment and Prosthesis.md",
     "Images/Orientation.png",
